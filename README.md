@@ -13,7 +13,7 @@ Le seguenti istruzioni prese dalla [guida di Jekyll](https://jekyllrb.com/docs/i
 - installare ruby (v2.4.0+) e altre requisiti  
  `sudo apt install ruby-full build-essential zlib1g-dev #eventualmente apt-get`
 - installazione di jekyll e bundler  
- `gem install jekyll bundler`
+ `sudo gem install jekyll bundler`
 - clonare il repository nella cartella desiderata  
  `git clone https://github.com/AFLdiscord/AFLdiscord.github.io`
 - installare dipendenze  
