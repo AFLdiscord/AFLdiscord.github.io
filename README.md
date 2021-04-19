@@ -17,7 +17,7 @@ Le seguenti istruzioni prese dalla [guida di Jekyll](https://jekyllrb.com/docs/i
 - clonare il repository nella cartella desiderata  
  `git clone https://github.com/AFLdiscord/AFLdiscord.github.io`
 - installare dipendenze  
- `bundle install` e `bundle update`
+ `bundle install`
 - per eseguire la build e navigare nel sito localmente  
  `bundle exec jekyll serve`
 
