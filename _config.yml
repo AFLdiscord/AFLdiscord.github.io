@@ -24,13 +24,29 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sito di AFL dove posteremo gli aggiornamenti più importanti.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  AFLdiscord
+show_excerpts: true
 minima:
   skin: dark
+  social_links:
+    github: AFLdiscord
 # Build settings
 remote_theme: jekyll/minima
 plugins:
-  - jekyll-feed
+  - jekyll-archives
+  - jekyll-seo-tag
+jekyll-archives:
+  enabled: []
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+collections:
+  my_collection:
+    output: true
+    permalink: /:collection/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
