@@ -4,6 +4,7 @@ author: Skylake-dev
 title:  "Siamo online!"
 date:   2021-04-16 20:03:48 +0200
 categories: amministrazione
+permalink: /:categories/:year/:month/:day/:title:output_ext
 ---
 Buonasera AFL, questo è il primo blog post del server. Come il nostro bot, questo sito nasce più per
 curiosità personale e provare a fare cose nuove piuttosto che per una esigenza di utilità. L'idea attuale è
