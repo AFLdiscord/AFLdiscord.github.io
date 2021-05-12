@@ -1,0 +1,18 @@
+---
+layout: post
+author: cathartyc
+title:  "Un saluto"
+date:   2021-05-13 00:44 +0200
+categories: amministrazione
+permalink: /:categories/:year/:month/:day/:title:output_ext
+---
+Buonasera a tutti. Dedico il mio primo articolo su questo blog ai ringraziamenti per tutti quelli che sono entrati nel server e per quelli che sono dentro da tanto, che hanno invitato altra gente a loro volta.
+
+L'obiettivo di un server come AFL è quello di mettere a confronto idee di più persone, e questo permette di prendere confidenza con punti di vista differenti, ma proprio per questo un server del genere non avrebbe senso, se non grazie a chi mette in gioco le proprie idee e la propria esperienza, sapendo ascoltare chi la pensa diversamente.
+
+Un posto dove la gente ha modo di esprimersi liberamente e di ascoltare gli altri è un posto che favorisce l'apertura mentale e aiuta a contrastare la manipolazione mediatica, le cui "vittime" oggi sono dietro l'angolo.
+
+---
+Un ringraziamento speciale va agli attivi, che danno vita a nuove discussioni ogni giorno, e, ultimo ma non ultimo, a Skylake, moderatore attivo che ha implementato, oltre a questo blog, la quasi totalità del bot, che peraltro tiene vivo ogni giorno sulla sua macchina.
+
+Buona continuazione☻
