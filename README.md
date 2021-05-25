@@ -32,7 +32,7 @@ date:   2021-04-16 20:03:48 +0200
 categories: nome_categoria oppure [cat1, cat2]
 ---
 ```
-Il testo del post deve essere scritto in markdown. Si consiglia di attivare la preview del risultato nell'editor che si sta utilizzando (per vscode `CTRL+K V` oppure dalla command palette `CTRL+SHIFT+V` cercare markdown).  
+Il testo del post deve essere scritto in markdown. Si consiglia di attivare la preview del risultato nell'editor che si sta utilizzando (per vscode `CTRL+K V` oppure dalla command palette `CTRL+SHIFT+P` e cercare markdown).  
 Per osservare il risultato:  
 `bundle exec jekyll serve`  
 aggiungere `--livereload` per modifiche in tempo reale (potrebbe non funzionare sotto wsl)
