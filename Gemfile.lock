@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/minima
-  revision: ee65e4c699671eae66021283b0a965e991d55dc5
+  revision: 69664442e5a45f631d5bccaba6d7978a91ce22c8
   specs:
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
@@ -54,7 +54,7 @@ GEM
     faraday-net_http_persistent (1.2.0)
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
-    ffi (1.15.4)
+    ffi (1.15.5)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (223)
